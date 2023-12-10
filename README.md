@@ -11,7 +11,7 @@
 </br></br>
 ![screen2](https://github.com/SwetaTheBest/Santa-s-Snowman/assets/30392938/425d3a8e-1876-4b72-a9d1-7401efde055b)
 </br></br>
-## Play game [Click here](https://swetathebest.github.io/Indiana-Stones/](https://swetathebest.github.io/Santa-s-Snowman/)
+## Play game [Click here]([https://swetathebest.github.io/Indiana-Stones/](https://swetathebest.github.io/Santa-s-Snowman/](https://swetathebest.github.io/Santa-s-Snowman/))
 
 ## Game Instructions:
 #### LEFT: left arrow or A
