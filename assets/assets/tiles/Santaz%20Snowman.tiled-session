@@ -1,0 +1,106 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level-01.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "C:/Users/sweta/AndroidStudioProjects/mario/assets/tiles/Inca_front_tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sweta/AndroidStudioProjects/mario/assets/tiles/blocks_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/sweta/AndroidStudioProjects/mario/assets/tiles/inca_back_dark.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sweta/AndroidStudioProjects/mario/assets/tiles/inca_back_tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sweta/AndroidStudioProjects/mario/assets/tiles/inca_tiles.tmx": {
+            "scale": 0.3615965639810427,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1689.728445627688,
+                "y": 120.29981568707763
+            }
+        },
+        "Level-01.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 347,
+                "y": 163.5
+            }
+        },
+        "Level-02.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 323.33333333333337,
+                "y": 93.99999999999997
+            }
+        },
+        "blocks_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "christmas_background.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "christmas_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cool_tileset.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "kenny_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lava_tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "winter_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/sweta/AndroidStudioProjects/hot_and_cold_game/assets/tiles",
+    "last.imagePath": "C:/Users/sweta/AndroidStudioProjects/hot_and_cold_game/assets/images/tileset",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 400,
+    "openFiles": [
+        "Level-01.tmx"
+    ],
+    "project": "Santaz Snowman.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Level-01.tmx",
+        "cool_tileset.tsx",
+        "christmas_background.tsx",
+        "lava_tile.tsx",
+        "kenny_tileset.tsx",
+        "Level-02.tmx",
+        "blocks_tileset.tsx",
+        "C:/Users/sweta/AndroidStudioProjects/mario/assets/tiles/blocks_tileset.tsx",
+        "winter_tileset.tsx",
+        "christmas_tileset.tsx",
+        "C:/Users/sweta/AndroidStudioProjects/mario/assets/tiles/inca_tiles.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
