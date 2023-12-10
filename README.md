@@ -6,9 +6,11 @@
 ## and collect Snowflakes
 
 # Game Instructions
-## LEFT: left arrow or A
-## RIGHT: right arrow or D
-## JUMP: up arrow or W
+### LEFT: left arrow or A
+### RIGHT: right arrow or D
+### JUMP: up arrow or W
 ## PAUSE/PLAY: space bar
+
+## Credits : Santa >  https://pzuh.itch.io/
 
 
